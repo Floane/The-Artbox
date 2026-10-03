@@ -10,23 +10,23 @@
 </head>
 <body>
 <header>
-    <a href="index.html"><img src="img/logo.png" alt="Logo Artbox" id="logo"></a>
+    <a href="index.php"><img src="img/logo.png" alt="Logo Artbox" id="logo"></a>
     <nav>
         <ul>
-            <li><a href="index.html">Accueil</a></li>
+            <li><a href="index.php">Accueil</a></li>
         </ul>
     </nav>
 </header>
 <main>
     <article id="detail-oeuvre">
         <div id="img-oeuvre">
-            <img src="img/steve-johnson-4.png" alt="Mirage">
+            <img src="img/fly-d.png" alt="La Galaxia Gialla">
         </div>
         <div id="contenu-oeuvre">
-            <h1>Mirage</h1>
-            <p class="description">Stéphanie Kaiser</p>
+            <h1>La Galaxia Gialla</h1>
+            <p class="description">Eduardo Tancredi</p>
             <p class="description-complete">
-                Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam iaculis lorem ac ex tristique egestas et nec sapien. Donec tincidunt id erat sit amet tempus. Nullam vel molestie dui. Duis a neque massa. Vivamus quis ornare lacus. Nullam eleifend condimentum egestas. Vivamus magna purus, fermentum mollis mauris sed, consectetur interdum libero. Duis interdum tortor tellus, eget sollicitudin quis.
+                Mauris maximus, orci sollicitudin ultrices elementum, tellus neque feugiat leo, quis lobortis purus neque vel lectus. Ut sagittis eros id lectus porttitor tincidunt. Donec scelerisque diam nec felis egestas, eget finibus ante porttitor. Sed malesuada sapien ut semper accumsan. Duis tristique dui vel egestas porttitor. Nunc tristique dapibus orci a amet.
             </p>
         </div>
     </article>

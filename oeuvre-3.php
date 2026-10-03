@@ -10,23 +10,23 @@
 </head>
 <body>
 <header>
-    <a href="index.html"><img src="img/logo.png" alt="Logo Artbox" id="logo"></a>
+    <a href="index.php"><img src="img/logo.png" alt="Logo Artbox" id="logo"></a>
     <nav>
         <ul>
-            <li><a href="index.html">Accueil</a></li>
+            <li><a href="index.php">Accueil</a></li>
         </ul>
     </nav>
 </header>
 <main>
     <article id="detail-oeuvre">
         <div id="img-oeuvre">
-            <img src="img/pawel-czerwinski.png" alt="Chromatics">
+            <img src="img/dan-cristian-padure.png" alt="Nightlife Traffic">
         </div>
         <div id="contenu-oeuvre">
-            <h1>Chromatics</h1>
-            <p class="description">Jean-Michel Delatronchette</p>
+            <h1>Nightlife Traffic</h1>
+            <p class="description">Andrew Forsythe</p>
             <p class="description-complete">
-                Vivamus commodo non libero at hendrerit. In lacinia dui sit amet pellentesque iaculis. Donec at ultricies sem porttitor.
+                Quisque accumsan ultrices ligula vestibulum posuere. Aliquam feugiat ligula eget massa blandit condimentum. Morbi volutpat erat luctus suscipit pellentesque. Quisque cursus tempor nibh at sollicitudin. Sed blandit libero velit. Etiam tincidunt facilisis mollis. Ut mollis nunc sit amet lacinia luctus. Suspendisse volutpat enim semper arcu rutrum, et iaculis risus interdum. Duis at libero.
             </p>
         </div>
     </article>

@@ -10,23 +10,23 @@
 </head>
 <body>
 <header>
-    <a href="index.html"><img src="img/logo.png" alt="Logo Artbox" id="logo"></a>
+    <a href="index.php"><img src="img/logo.png" alt="Logo Artbox" id="logo"></a>
     <nav>
         <ul>
-            <li><a href="index.html">Accueil</a></li>
+            <li><a href="index.php">Accueil</a></li>
         </ul>
     </nav>
 </header>
 <main>
     <article id="detail-oeuvre">
         <div id="img-oeuvre">
-            <img src="img/fly-d.png" alt="La Galaxia Gialla">
+            <img src="img/pawel-czerwinski-3.png" alt="Aashaaheen Baadal">
         </div>
         <div id="contenu-oeuvre">
-            <h1>La Galaxia Gialla</h1>
-            <p class="description">Eduardo Tancredi</p>
+            <h1>Aashaaheen Baadal</h1>
+            <p class="description">Anaisha Devi</p>
             <p class="description-complete">
-                Mauris maximus, orci sollicitudin ultrices elementum, tellus neque feugiat leo, quis lobortis purus neque vel lectus. Ut sagittis eros id lectus porttitor tincidunt. Donec scelerisque diam nec felis egestas, eget finibus ante porttitor. Sed malesuada sapien ut semper accumsan. Duis tristique dui vel egestas porttitor. Nunc tristique dapibus orci a amet.
+                Sur cette oeuvre conceptuelle à la fois organique, minérale et liquide, Anaisha Devi nous transporte dans un nuage noir envoûtant. Un sombre tableau qui, par son verni éclatant, rayonne tel un marbre poli. Une oeuvre à la cohérence transcendantale, exécutée à la perfection
             </p>
         </div>
     </article>

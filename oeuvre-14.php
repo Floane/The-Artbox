@@ -10,23 +10,23 @@
 </head>
 <body>
 <header>
-    <a href="index.html"><img src="img/logo.png" alt="Logo Artbox" id="logo"></a>
+    <a href="index.php"><img src="img/logo.png" alt="Logo Artbox" id="logo"></a>
     <nav>
         <ul>
-            <li><a href="index.html">Accueil</a></li>
+            <li><a href="index.php">Accueil</a></li>
         </ul>
     </nav>
 </header>
 <main>
     <article id="detail-oeuvre">
         <div id="img-oeuvre">
-            <img src="img/pawel-czerwinski-3.png" alt="Aashaaheen Baadal">
+            <img src="img/steve-johnson-4.png" alt="Mirage">
         </div>
         <div id="contenu-oeuvre">
-            <h1>Aashaaheen Baadal</h1>
-            <p class="description">Anaisha Devi</p>
+            <h1>Mirage</h1>
+            <p class="description">Stéphanie Kaiser</p>
             <p class="description-complete">
-                Sur cette oeuvre conceptuelle à la fois organique, minérale et liquide, Anaisha Devi nous transporte dans un nuage noir envoûtant. Un sombre tableau qui, par son verni éclatant, rayonne tel un marbre poli. Une oeuvre à la cohérence transcendantale, exécutée à la perfection
+                Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam iaculis lorem ac ex tristique egestas et nec sapien. Donec tincidunt id erat sit amet tempus. Nullam vel molestie dui. Duis a neque massa. Vivamus quis ornare lacus. Nullam eleifend condimentum egestas. Vivamus magna purus, fermentum mollis mauris sed, consectetur interdum libero. Duis interdum tortor tellus, eget sollicitudin quis.
             </p>
         </div>
     </article>

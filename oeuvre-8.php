@@ -10,23 +10,23 @@
 </head>
 <body>
 <header>
-    <a href="index.html"><img src="img/logo.png" alt="Logo Artbox" id="logo"></a>
+    <a href="index.php"><img src="img/logo.png" alt="Logo Artbox" id="logo"></a>
     <nav>
         <ul>
-            <li><a href="index.html">Accueil</a></li>
+            <li><a href="index.php">Accueil</a></li>
         </ul>
     </nav>
 </header>
 <main>
     <article id="detail-oeuvre">
         <div id="img-oeuvre">
-            <img src="img/steve-johnson.png" alt="Red Washover">
+            <img src="img/steve-johnson-6.png" alt="Blast from the past">
         </div>
         <div id="contenu-oeuvre">
-            <h1>Red Washover</h1>
-            <p class="description">Kit Van Der Borght</p>
+            <h1>Blast from the past</h1>
+            <p class="description">Juliette Baskerville</p>
             <p class="description-complete">
-                Nunc euismod ullamcorper tortor, id efficitur ante interdum in. Integer eu condimentum nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras viverra suscipit feugiat. Mauris vehicula luctus tellus, eu hendrerit libero laoreet ut. In tristique vehicula nisl in tempus. Morbi tempus aliquet gravida. In eget est congue, rhoncus sapien at, cursus metus.
+                Nunc fermentum purus dapibus justo fermentum auctor. Maecenas non tincidunt leo. Morbi vitae iaculis sem. Donec quis scelerisque massa. Fusce quis accumsan diam, et interdum lectus. Suspendisse mattis pulvinar vehicula. Duis nisi.
             </p>
         </div>
     </article>

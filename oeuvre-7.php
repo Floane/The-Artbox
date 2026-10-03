@@ -10,23 +10,23 @@
 </head>
 <body>
 <header>
-    <a href="index.html"><img src="img/logo.png" alt="Logo Artbox" id="logo"></a>
+    <a href="index.php"><img src="img/logo.png" alt="Logo Artbox" id="logo"></a>
     <nav>
         <ul>
-            <li><a href="index.html">Accueil</a></li>
+            <li><a href="index.php">Accueil</a></li>
         </ul>
     </nav>
 </header>
 <main>
     <article id="detail-oeuvre">
         <div id="img-oeuvre">
-            <img src="img/orfeas-green.png" alt="Puffy Amalgamate">
+            <img src="img/jazmin-quaynor.png" alt="Digital Negative">
         </div>
         <div id="contenu-oeuvre">
-            <h1>Puffy Amalgamate</h1>
-            <p class="description">Sandro De Blasi</p>
+            <h1>Digital Negative</h1>
+            <p class="description">Hamish McKee</p>
             <p class="description-complete">
-                Donec semper a massa quis congue. In malesuada lorem ligula, ut posuere magna pulvinar in. Proin vitae enim gravida, commodo odio.
+                Integer in nisl posuere, pulvinar ex ac, tincidunt risus. Nullam vel lorem et leo dignissim accumsan. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempor, magna non consectetur dapibus, est libero iaculis lacus, eget semper turpis orci vitae felis. Fusce eget molestie.
             </p>
         </div>
     </article>
