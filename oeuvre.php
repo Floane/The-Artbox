@@ -28,7 +28,7 @@
 
     <article id="detail-oeuvre">
         <div id="img-oeuvre">
-            <img src="<?= $oeuvreTrouvee['image'] ?>" alt="<?= htmlspecialchars($oeuvreTrouvee['titre']) ?>">
+            <img src="<?= htmlspecialchars($oeuvreTrouvee['image']) ?>" alt="<?= htmlspecialchars($oeuvreTrouvee['titre']) ?>">
         </div>
         <div id="contenu-oeuvre">
             <h1><?= htmlspecialchars($oeuvreTrouvee['titre']) ?></h1>
