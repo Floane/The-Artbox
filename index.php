@@ -1,6 +1,14 @@
 <?php 
     require 'header.php'; 
-    require 'oeuvres.php';
+    require 'bdd.php';
+
+    $bdd = connexion();
+    $requete = $bdd->query(
+        'SELECT oeuvres.*, artistes.nom AS artiste 
+        FROM oeuvres 
+        INNER JOIN artistes ON oeuvres.artiste_id = artistes.id'
+    );
+    $oeuvres = $requete->fetchAll();
 ?>
 
     <div id="liste-oeuvres">
